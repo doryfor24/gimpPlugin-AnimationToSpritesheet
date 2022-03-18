@@ -15,7 +15,7 @@ just a little gimp plugin i created to turn multiple layers into one image by ju
 | |____________|                |_____________:_____________:____________|
 |____________|
 
-MULTIPLE LAYERS    ==========> one layer with all layers next to eachother
+MULTIPLE LAYERS    ==========> one layer with all layers next to eachother in a NEW IMAGE (so it doesn't touch you original image)
 
 This script must be placed in ~/.gimp-n.m/plug-ins
 
